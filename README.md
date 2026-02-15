@@ -53,3 +53,10 @@ Node.js • Express.js • MongoDB • Full-Stack Development
 ---
 
 ⭐ Always curious, always learning, always building.
+
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,nodejs,express,mongodb,git,github,powerbi,arduino,flutter" />
+</p>
