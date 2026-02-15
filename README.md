@@ -45,6 +45,7 @@
 </p>
 
 ### 🤖 IoT & Hardware
+<p>
 <img src="https://cdn.simpleicons.org/arduino/00979D" height="45" style="margin-right:15px;"/>
 <img src="https://cdn.simpleicons.org/espressif/E7352C" height="45" style="margin-right:15px;"/>
 <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="45"/>
