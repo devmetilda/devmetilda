@@ -71,14 +71,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+![snake gif](https://github.com/devmetilda/devmetilda/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
