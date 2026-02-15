@@ -58,7 +58,8 @@
 ### 📊 Data & Analytics
 <p>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
-<img src="https://cdn.simpleicons.org/tableau/E97627" height="45"/>
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="45"/>
+
 
 </p>
 
