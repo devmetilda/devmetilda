@@ -57,6 +57,13 @@ Node.js • Express.js • MongoDB • Full-Stack Development
 
 ## 🚀 Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html,css,nodejs,express,mongodb,git,github,powerbi,arduino,flutter" />
+## 🛠 Skills & Technologies
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 </p>
+
