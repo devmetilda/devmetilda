@@ -51,7 +51,7 @@
 
 ### 📊 Data & Analytics
 <p>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
 </p>
 
 
