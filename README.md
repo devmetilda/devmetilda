@@ -72,7 +72,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/devmetilda/devmetilda/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/devmetilda/devmetilda/output/dist/github-contribution-grid-snake-dark.svg)
 
 
 
