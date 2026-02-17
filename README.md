@@ -79,15 +79,21 @@ I value analytical thinking, structured problem solving, and continuous learning
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sequierametilda@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Metilda%20Sequiera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metildasequiera-b71730315/)
+<p align="center">
+  <a href="mailto:sequierametilda@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/metildasequiera-b71730315/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-⭐ Always curious, always learning, always building.
+ Always curious, always learning, always building.
 
 
 
